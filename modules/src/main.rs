@@ -1,4 +1,4 @@
-pub mod figures {
+mod figures {
     pub mod quadrilatero;
 }
 
